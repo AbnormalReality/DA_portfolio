@@ -1,7 +1,7 @@
 ## <a href="https://practicum.yandex.ru/data-analyst/" target="_blank"><b>Портфолио проектов в рамках курса "Аналитик данных" Яндекс.Практикум</b></a>
 
 <table>
-  <thead align="center">
+  <thead align="left">
     <tr border: none;>
       <td><b>📝Проект</b></td>
       <td><b>📚Спринт</b></td>
