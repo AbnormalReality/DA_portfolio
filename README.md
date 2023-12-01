@@ -102,8 +102,7 @@
           открытия новой кофейни и сформулированы рекомендации.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh](https://public.tableau.com/views/TED-Talks-Practicum/TED-Project-Practicum?:language=en- 
-           US&publish=yes&:display_count=n&:origin=viz_share_link"><b>12.Создание дашборда по пользовательским событиям для датасета TED Talks</b></a>
+      <td><a href="https://public.tableau.com/views/TED-Talks-Practicum/TED-Project-Practicum?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><b>12.Создание дашборда по пользовательским событиям для датасета TED Talks</b></a>
       (<b>Стартапы</b>, <b>BI</b>)</td>
       <td><b>Tableu</b>, <b>Продуктовые метрики</b>, <b>Dashboards</b></td>
       <td>Исследуете историю TED-конференций и создадите дашборд в Tableau на основе полученных данных.</td>
