@@ -128,7 +128,7 @@
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>15.Выпускной проект - SQL </b></a>
       (<b>Бизнес</b>)</td>
       <td><b>SQL</b>, <b>PostgreSQL</b></td>
-      <td>Решение 5 задач по датасету книжного магазина</td>
+      <td>Решение 5 задач по базе данных книжного магазина по подписке</td>
       <td>Написаны все SQL-запросы для решения задач</td>
     </tr>
   </tbody>
