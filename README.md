@@ -11,14 +11,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>1.Исследование данных сервиса “Яндекс.Музыка”</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/1_yandex_music_big_cities/yandex_music.ipynb"><b>1.Исследование данных сервиса “Яндекс.Музыка”</b></a>
         (<b>Интернет-сервисы</b>, <b>Стриминговый сервис</b>)</td>
       <td><b>Python</b>, <b>Pandas</b></td>
       <td>На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.</td>
       <td>На реальных данных Яндекс.Музыки обработали и сравнили поведение пользователей двух столиц, определив их предпочтения.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>2.Исследование надёжности заёмщиков — анализ банковских данных</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/2_assess_reliability_of_bank_borrowers/project_2_pt2.ipynb"><b>2.Исследование надёжности заёмщиков — анализ банковских данных</b></a>
       (<b>Банки</b>, <b>Кредитование</b>) </td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Предобработка данных</b></td>
       <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок</td>
@@ -26,7 +26,7 @@
           Определены и обработаны пропуски. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Категоризация и декомпозиция данных.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>3.Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/3_real_estate_yandex/real_estate_yandex.ipynb"><b>3.Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</b></a>
      (<b>Интернет-сервисы</b>, <b>Площадки объявлений</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Предобработка данных</b>, <b>Исследовательский анализ данных(EAD)</b>, <b>Matplotlib</b>, <b>Визуализация данных</b></td>
       <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
@@ -34,14 +34,14 @@
           удаленности от центра. Проведена предобработка данных. Добавлены новые данные.Построены гистограммы, боксплоты, диаграммы рассеивания.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>4.Исследование поведения пользователей сервиса аренды самокатов GoFast</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/4_statistic_search/statistic_search_gofast.ipynb"><b>4.Исследование поведения пользователей сервиса аренды самокатов GoFast</b></a>
       (<b>Прокат</b>, <b>Приложения</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>NumPy</b>, <b>SciPy</b>, <b>Matplotlib</b>, <b>Статистические гипотезы</b>, <b>Описательная статистика</b></td>
       <td>Проверите гипотезы сервиса аренды самокатов, чтобы помочь вырастить бизнес.</td>
       <td>Проведен предварительный анализ использования тарифов на выборке клиентов сервиса самокатов,проанализировано поведение клиентов при использовании услуг. Проведена предобработка данных, их анализ. Проверены статистические гипотезы на основе имеющихся данных.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>5.Изучение закономерностей, определяющих успешность игр</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/5_videogames/gamedev.ipynb"><b>5.Изучение закономерностей, определяющих успешность игр</b></a>
       (<b>GameDev</b>, <b>Интернет-магазин</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Предобработка данных</b>, <b>EAD</b>, <b>NumPy</b>, <b>Matplotlib</b>, <b>Статистические гипотезы</b>, <b>Описательная статистика</b></td>
       <td>Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры </td>
@@ -52,7 +52,7 @@
           средние пользовательские рейтинги жанров Action и Sports разные. При анализе использовал критерий Стьюдента для независимых выборок.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>6.Исследование данных об инвестиции венчурных фондов в компании-стартапы</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/6_basic_sql/basic_sql_fact"><b>6.Исследование данных об инвестиции венчурных фондов в компании-стартапы</b></a>
       (<b>Стартапы</b>, <b>Инвестиции</b>)</td>
       <td><b>SQL</b>, <b>PostgreSQL</b></td>
       <td>Произвести различные выгрузки данных венчурных фондов с помощью SQL</td>
@@ -60,7 +60,8 @@
           в компании-стартапы. Эта база данных основана на датасете Startup Investments, опубликованном на популярной платформе для соревнований по исследованию данных Kaggle.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>7.Анализ убытков приложения ProcrastinatePRO+</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/7_business%20performance%20analysis/business_perfomance_analysis.ipynb">
+      <b>7.Анализ убытков приложения ProcrastinatePRO+</b></a>
       (<b>Стартапы</b>, <b>Приложения</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Seaborn</b>, <b>Matplotlib</b>, <b>Когортный анализ</b>, <b>Юнит-экономика</b>, <b>Продуктовые метрики</b></td>
       <td>Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит 
@@ -69,14 +70,16 @@
           написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>8.Анализ сервиса вопросов и ответов по программированию Stack Overflow</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/8_advanced_sql_stackoverflow/advanced_sql_stackoverflow.ipynb"> 
+      <b>8.Анализ сервиса вопросов и ответов по программированию Stack Overflow</b></a>
       (<b>Интернет-сервисы</b>)</td>
       <td><b>SQL</b>, <b>PostgreSQL</b></td>
       <td>С помощью SQL посчитаете и визуализируете ключевые метрики сервис-системы вопросов и ответов о программировании.</td>
       <td>Написаны все сложные SQL-запросы для подсчёта требуемых значений и метрик.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>9.Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/9_business_decisions/business_decisions.ipynb"> 
+      <b>9.Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</b></a>
       (<b>Интернет-магазин</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>SciPy</b>, <b>Matplotlib</b>, <b>Статистические гипотезы</b>, <b>A/B-тестирование</b></td>
       <td>Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами</td>
@@ -85,7 +88,7 @@
           принято решение о нецелесообразности дальнейшего проведения теста.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>10.Анализ пользовательского поведения в мобильном приложении</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/10_build_up_project_2/build_up_project.ipynb"><b>10.Анализ пользовательского поведения в мобильном приложении</b></a>
       (<b>Стартапы</b>, <b>Приложения</b>, <b>Бизнес</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Seaborn</b>, <b>Matplotlib</b>, <b>Plotly</b>, <b>SciPy</b>, <b>Событийная аналитика</b>, <b>Визуализация данных</b>, <b>Воронки продаж</b>, <b>Статистические гипотезы</b>, <b>A/B-тестирование</b></td>
       <td>На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования </td>
@@ -94,7 +97,8 @@
             значительно не повлияет на поведение пользователей.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>11.Исследования рынка общепита в Москве для принятия решения об открытии кофейни</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/11_market%20of%20catering_in_moscow/market_of_catering_msk.ipynb"> 
+      <b>11.Исследования рынка общепита в Москве для принятия решения об открытии кофейни</b></a>
       (<b>Стартапы</b>, <b>Гео-аналитика</b>, <b>Бизнес</b>)</td>
       <td><b>Python</b>, <b>Pandas</b>, <b>Seaborn</b>, <b>Matplotlib</b>, <b>Plotly</b>, <b>Folium</b></td>
       <td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации.</td>
@@ -109,7 +113,7 @@
       <td>Подготовлены презентация и интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>13.Выпускной проект - Анализ клиентов Банка (сегментация/анализ причин оттока)</b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/13_Final_Bank/final_project_bank.ipynb"><b>13.Выпускной проект - Анализ клиентов Банка (сегментация/анализ причин оттока)</b></a>
       (<b>Банки</b>, <b>BI</b>, <b>Бизнес</b>)</td>
       <td><b>Предобработка данных</b>, <b>EAD</b>, <b>Python</b>, <b>Pandas</b>, <b>Seaborn</b>, <b>Matplotlib</b>, <b>Plotly</b>, <b>Визуализация данных</b>, <b>Tableu</b>, 
           <b>Dashboards</b></td>
@@ -117,14 +121,14 @@
       <td>Подготовлены презентация и интерактивный дашборд на основе проведенного анализа. Сделаны выводы и даны рекомендации</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>14.Выпускной проект - A/B-тестирование </b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/14_Final_AB_test/final_ab_test.ipynb"><b>14.Выпускной проект - A/B-тестирование </b></a>
       (<b>Бизнес</b>)</td>
       <td><b>Предобработка данных</b>, <b>EAD</b>, <b>Python</b>, <b>Pandas</b>, <b>SciPy</b>, <b>Статистические гипотезы</b>, <b>A/B-тестирование</b>, <b>Воронки конверсии</b></td>
       <td>Анализ влияния нововведений на тестовые группы, качества проведения теста и его итогов</td>
       <td>Проведен анализ тестовых групп, целевых показателей, построены воронки по конверсии. Сделаны выводы по соответствию теста ТЗ. Сформулированы и проверены статистические гипотезы. Тест признан некорректным. Даны рекомендации</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>15.Выпускной проект - SQL </b></a>
+      <td><a href="https://github.com/AbnormalReality/DA_portfolio/blob/ca6cb4923a4f624f54e51671d76f195f34fadba9/15_Final_SQL/final_sql_books.ipynb"><b>15.Выпускной проект - SQL </b></a>
       (<b>Бизнес</b>)</td>
       <td><b>SQL</b>, <b>PostgreSQL</b></td>
       <td>Решение 5 задач по базе данных книжного магазина по подписке</td>
